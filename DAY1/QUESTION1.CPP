@@ -1,3 +1,5 @@
+// Program to find the greatest of three numbers using conditional operator
+
 #include<iostream>
 using namespace std;
 
