@@ -8,10 +8,10 @@ int main()
 {
    char string[10];
  
-   cout<<"Input a string to convert to lower case"<<endl;
+   cout<<"Input a string to convert to upper case"<<endl;
    cin.getline(string, 10);
  
-   cout<<"Character in lowercase:"<< strlwr(string);
+   cout<<"Characters in uppercase:"<< strupr(string);
  
    return  0;
 }
