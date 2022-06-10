@@ -54,7 +54,7 @@ int main()
             {
                 cout<<"\t"<<arr3[i][j];
             }
-            printf("\n\n");
+            cout<<endl;
         }
 
         return 0;
